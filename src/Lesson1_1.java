@@ -26,7 +26,7 @@ public class Lesson1_1 {
 	public static void main(String[] args) {
 		
 		System.out.println(String.format("%d", -121));
-		System.exit(0);
+		/*System.exit(0);*/
 		
 		int a = -10;
 		String b = "10100010";

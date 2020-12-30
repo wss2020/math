@@ -37,7 +37,6 @@ public class Lesson3_3 {
 
 	public static void main(String[] args) {
 		
-		
 		String[] dictionary = {"i", "am", "one", "of", "the", "authors", "in", "geekbang"};
 		
 		Arrays.sort(dictionary);
