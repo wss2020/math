@@ -27,6 +27,7 @@ public class Lesson4_2 {
             boolean proveOfPreviousOne = prove(k - 1, result);
             result.wheatNum *= 2;
             result.wheatTotalNum += result.wheatNum;
+
             boolean proveOfCurrentOne = false;
             if (result.wheatTotalNum == (Math.pow(2, k) - 1)) proveOfCurrentOne = true;
 
