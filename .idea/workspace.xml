@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1e967670-2ae1-4eaa-b1a8-b72a0baca55d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/math/Lesson4_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/math/Lesson4_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/math/Lesson6_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/math/Lesson6_1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,21 +39,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lesson4_2">
-    <configuration name="Define_decimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Define_decimalToBinary" />
-      <module name="math" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3_1" />
-      <module name="math" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lesson6_1">
     <configuration name="Lesson3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson3_2" />
       <module name="math" />
@@ -74,26 +61,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Lesson5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5_1" />
+      <module name="math" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6_1" />
+      <module name="math" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson6_1" />
+        <item itemvalue="Application.Lesson5_1" />
         <item itemvalue="Application.Lesson4_2" />
         <item itemvalue="Application.Lesson3_3" />
         <item itemvalue="Application.Lesson3_2" />
-        <item itemvalue="Application.Lesson3_1" />
-        <item itemvalue="Application.Define_decimalToBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +105,8 @@
       <option name="presentableId" value="Default" />
       <updated>1609297500106</updated>
       <workItem from="1609297501240" duration="5034000" />
-      <workItem from="1609319048802" duration="1252000" />
+      <workItem from="1609319048802" duration="1424000" />
+      <workItem from="1609401106972" duration="3878000" />
     </task>
     <task id="LOCAL-00001" summary="math">
       <created>1609297610842</created>
@@ -122,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609320365535</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="math">
+      <created>1609321964623</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609321964623</updated>
+    </task>
+    <task id="LOCAL-00004" summary="math">
+      <created>1609406453335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609406453335</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
