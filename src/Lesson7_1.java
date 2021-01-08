@@ -38,7 +38,6 @@ public class Lesson7_1 {
     		compare(result, q_horses);
     		
     		System.out.println();
-    		
     		return;
     	}
     	

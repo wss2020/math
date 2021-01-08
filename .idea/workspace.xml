@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1e967670-2ae1-4eaa-b1a8-b72a0baca55d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/math/Lesson4_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/math/Lesson4_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/math/Lesson6_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/math/Lesson6_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/math/Lesson7_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/math/Lesson7_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,30 +39,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lesson6_1">
-    <configuration name="Lesson3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3_2" />
-      <module name="math" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3_3" />
-      <module name="math" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4_2" />
-      <module name="math" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson5_1" />
+  <component name="RunManager" selected="Application.Lesson10_1">
+    <configuration name="Lesson10_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson10_1" />
       <module name="math" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,6 +49,27 @@
     </configuration>
     <configuration name="Lesson6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson6_1" />
+      <module name="math" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7_1" />
+      <module name="math" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson7_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7_2" />
+      <module name="math" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson8_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson8_1" />
       <module name="math" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson10_1" />
+        <item itemvalue="Application.Lesson8_1" />
+        <item itemvalue="Application.Lesson7_2" />
+        <item itemvalue="Application.Lesson7_1" />
         <item itemvalue="Application.Lesson6_1" />
-        <item itemvalue="Application.Lesson5_1" />
-        <item itemvalue="Application.Lesson4_2" />
-        <item itemvalue="Application.Lesson3_3" />
-        <item itemvalue="Application.Lesson3_2" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +106,11 @@
       <updated>1609297500106</updated>
       <workItem from="1609297501240" duration="5034000" />
       <workItem from="1609319048802" duration="1424000" />
-      <workItem from="1609401106972" duration="3878000" />
+      <workItem from="1609401106972" duration="3896000" />
+      <workItem from="1609924726553" duration="2005000" />
+      <workItem from="1610001653165" duration="3732000" />
+      <workItem from="1610092578343" duration="191000" />
+      <workItem from="1610093127440" duration="148000" />
     </task>
     <task id="LOCAL-00001" summary="math">
       <created>1609297610842</created>
@@ -136,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609406453335</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="math">
+      <created>1609407287822</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609407287822</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
