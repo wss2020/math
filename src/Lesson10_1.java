@@ -36,7 +36,11 @@ public class Lesson10_1 {
 				int first_append = d[i][j + 1] + 1;
 				int second_append = d[i + 1][j] + 1;
 				int replace = d[i][j] + r;
-				
+
+				if(j==0) System.out.println("---------");
+				String result = " " +  second_append + " " + first_append + " " + replace  + " ";
+				System.out.println(result);
+
 				int min = Math.min(first_append, second_append);
 				min = Math.min(min, replace);
 				d[i + 1][j + 1] = min;
